@@ -1,0 +1,16 @@
+node_modules/
+bundle.js
+npm-debug.log
+
+/.idea
+/public
+.db
+.env
+.passport.js
+.DS_Store
+
+build/
+dist/
+
+frontend/public/uploads/*
+!frontend/public/uploads/.gitkeep
